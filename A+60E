@@ -262,7 +262,7 @@ voice register dn 10
  allow watch
 !
 voice register pool 1
- id mac obob.cafe.baba
+ id mac 00aa.6e6c.0194
  number 1 dn 1
  number 2 dn 2
  number 3 dn 3
@@ -274,7 +274,7 @@ voice register pool 1
  type 8851
 !
 voice register pool 2
- id mac haha.face.bobo
+ id mac 6c6c.d3a5.6378
  number 1 dn 6
  number 2 dn 8
  number 3 dn 9
